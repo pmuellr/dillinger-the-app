@@ -1,0 +1,16 @@
+{
+  "name":               "Dillinger-the-app",
+  "description":        "Dillinger for your desktop",
+  "version":            "1.0.0",
+  "author":             "pmuellr",
+  "license":            "Apache-2.0",
+  "homepage":           "https://github.com/pmuellr/Dillinger-the-app",
+  "repository": {
+    "type":             "git",
+    "url":              "https://github.com/pmuellr/Dillinger-the-app.git"
+  },
+  "dependencies": {
+    "Dillinger":        "joemccann/dillinger",
+    "underscore":       "1.7.x"
+  }
+}
